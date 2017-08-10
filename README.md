@@ -1,1 +1,0 @@
-# ggplot2_training_cn
